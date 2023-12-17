@@ -1,0 +1,9 @@
+.mybtn{
+    position: absolute;
+    right: 25px;
+    bottom: 10px;
+}
+
+.mycol{
+    position: relative;
+}
